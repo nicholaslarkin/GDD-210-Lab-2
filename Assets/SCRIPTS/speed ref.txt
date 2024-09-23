@@ -1,0 +1,7 @@
+scout 10
+spy medic 8
+pyro engie sniper 7.5
+demo 7
+soldier 6
+heavy 5.8
+sniper scoped 2
